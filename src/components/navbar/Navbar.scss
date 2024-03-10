@@ -1,9 +1,55 @@
 .navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
     position: fixed;
     width: 100%;
     background-color: white;
     box-sizing: border-box;
-    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    // box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
     padding: 16px;
-    z-index: 10;
+    border: solid 1px red;
+}
+
+.navbar-options-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-login-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar-login-text-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    padding: 0 8px;
+    font-weight: 600;
+
+    &:hover{
+        background-color: rgb(244, 241, 241);
+        border-radius: 22px;
+        cursor: pointer;
+    }
+}
+
+.navbar-login-icon-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    aspect-ratio: 1/1;
+    font-weight: 600;
+    margin: 0 10px;
+
+    &:hover{
+        background-color: rgb(244, 241, 241);
+        border-radius: 50%;
+        cursor: pointer;
+    }
 }

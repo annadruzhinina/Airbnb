@@ -1,0 +1,29 @@
+.navbarOptions-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 44px;
+    padding: 0 8px;
+    color: rgb(88,88,88);
+}
+
+.navbarOptions-title{
+    &:hover{
+        color:rgb(0, 0, 0);
+        cursor: pointer;
+    }
+}
+
+.navbarOptions-edit{
+    color:rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.navbarOptions-container-hvr{
+    &:hover{
+        background-color: rgb(244, 241, 241);
+        border-radius: 22px;
+        cursor: pointer;
+        color:rgb(0, 0, 0);
+    }
+}
