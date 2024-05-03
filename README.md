@@ -7,5 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-
-npm i react-router react-router-dom sass
+0. Create repo
+1. npm create vite@latest - Install Vite
+2. npm i react-router react-router-dom sass
+3. Change extansion css -> scss
+4. Change path in main.jsx and App.jsx
+5. 
