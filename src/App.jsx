@@ -1,13 +1,20 @@
-import React from 'react'
+// import  from 'react'
+import { Route, Routes } from 'react-router-dom'
+
+import Home from './screens/Home.jsx'
 
 import './App.scss'
 
 function App() {
 
   return (
-    <div>
-      Hello
-    </div>
+    <>
+     <div className="app-container">
+       <Routes>
+        <Route path="/" element={<Home />} />
+       </Routes>
+     </div>
+    </>
   )
 }
 
