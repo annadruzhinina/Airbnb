@@ -74,10 +74,10 @@ export const homeData = [
         soldout: false,
         url:
         [
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/bc989f2d-eca8-4bcf-a9b0-b70b8e685a64.jpeg?im_w=720&im_q=highq,
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/acb7c0e1-5e3d-4f12-9aea-f9ee71a9035a.jpeg?im_w=720&im_q=highq,
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/1e05770b-cfb9-4484-aa14-8fd4d14ee7b3.jpeg?im_w=720&im_q=highq,
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/b6288ffe-0bc2-4b01-b2f6-d0d0b78d0959.jpeg?im_w=720&im_q=highq,
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/bc989f2d-eca8-4bcf-a9b0-b70b8e685a64.jpeg?im_w=720&im_q=highq",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/acb7c0e1-5e3d-4f12-9aea-f9ee71a9035a.jpeg?im_w=720&im_q=highq",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/1e05770b-cfb9-4484-aa14-8fd4d14ee7b3.jpeg?im_w=720&im_q=highq",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NjI3OTI1MjIxNDQyOA%3D%3D/original/b6288ffe-0bc2-4b01-b2f6-d0d0b78d0959.jpeg?im_w=720&im_q=highq",
         ],
         icons: true,
         amazingview:false,
@@ -90,10 +90,10 @@ export const homeData = [
         soldout: false,
         url:
         [
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/f4cbe542-3ce0-4c6f-a8f1-d2120c1b2420.jpeg?im_w=1920&im_q=highq,
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/0dc93cbc-8753-426d-b48d-6ae45bb1e3fd.jpeg?im_w=960&im_q=highq,
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/e0d8bd33-d1a0-424a-a769-d76808fbc64a.jpeg?im_w=960&im_q=highq,
-            https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/0a980b27-6c74-4beb-9026-40f2836f9b87.jpeg?im_w=960&im_q=highq,
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/f4cbe542-3ce0-4c6f-a8f1-d2120c1b2420.jpeg?im_w=1920&im_q=highq",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/0dc93cbc-8753-426d-b48d-6ae45bb1e3fd.jpeg?im_w=960&im_q=highq",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/e0d8bd33-d1a0-424a-a769-d76808fbc64a.jpeg?im_w=960&im_q=highq",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/0a980b27-6c74-4beb-9026-40f2836f9b87.jpeg?im_w=960&im_q=highq",
         ],
         icons: true,
         amazingview:false,
@@ -105,10 +105,10 @@ export const homeData = [
         soldout: false,
         url:
             [
-                https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/99417998-fa44-4c75-ae77-287c1468977b.jpeg?im_w=1440&im_q=highq,
-                https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/108249b2-6e2b-4dfd-abc4-f0d0da659959.png?im_w=1440&im_q=highq,
-                https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/e7843985-2cc0-4ae6-a528-babbbe8f5948.jpeg?im_w=1440&im_q=highq,
-                https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/976f6371-eea8-4221-aab8-6d74c7c392a8.jpeg?im_w=1440&im_q=highq,
+                "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/99417998-fa44-4c75-ae77-287c1468977b.jpeg?im_w=1440&im_q=highq",
+                "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/108249b2-6e2b-4dfd-abc4-f0d0da659959.png?im_w=1440&im_q=highq",
+                "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/e7843985-2cc0-4ae6-a528-babbbe8f5948.jpeg?im_w=1440&im_q=highq",
+                "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/976f6371-eea8-4221-aab8-6d74c7c392a8.jpeg?im_w=1440&im_q=highq",
             ],
         icons: true,
         amazingview:false,
@@ -120,10 +120,10 @@ export const homeData = [
         soldout: false,
         url:
             [
-                https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/6e4e417f-25e3-4578-941e-42fdd68a3971.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/1322528f-0abb-4f3d-96eb-d5f0e3779f46.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/6744706d-ded9-45e6-91e9-8b0e5100bff8.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/5f1c8783-9ab4-47c8-8572-bc63c2251c95.jpeg?im_w=720,
+                "https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/6e4e417f-25e3-4578-941e-42fdd68a3971.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/1322528f-0abb-4f3d-96eb-d5f0e3779f46.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/6744706d-ded9-45e6-91e9-8b0e5100bff8.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-959493006014888753/original/5f1c8783-9ab4-47c8-8572-bc63c2251c95.jpeg?im_w=720",
             ],
         icons: true,
         amazingview:false,
@@ -135,10 +135,10 @@ export const homeData = [
         soldout: false,
         url:
             [
-                https://a0.muscache.com/im/pictures/65bfe904-c752-4d71-b4f8-a2d8de1ecc5f.jpg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-44178916/original/6a455ea5-7765-4c55-b099-ac7b6713f39f.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-44178916/original/9fbd1118-4941-4c62-9142-62d3dcda8c94.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/1359d9af-988c-4ad3-a816-03c7a7703a50.jpg?im_w=720,
+                "https://a0.muscache.com/im/pictures/65bfe904-c752-4d71-b4f8-a2d8de1ecc5f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44178916/original/6a455ea5-7765-4c55-b099-ac7b6713f39f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44178916/original/9fbd1118-4941-4c62-9142-62d3dcda8c94.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/1359d9af-988c-4ad3-a816-03c7a7703a50.jpg?im_w=720",
             ],
         icons: true,
         amazingview:false,
@@ -150,10 +150,10 @@ export const homeData = [
         soldout: false,
         url:
             [
-                https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/10d2c21f-84c2-46c5-b20b-b51d1c2c971a.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/e3beaf52-13ab-44ed-bbfa-56ccf43bab98.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/bc9fdbba-a126-4357-946b-4d5f5581ca0f.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/858b29eb-53f3-4707-87a6-444f4375f888.jpeg?im_w=720,
+                "https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/10d2c21f-84c2-46c5-b20b-b51d1c2c971a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/e3beaf52-13ab-44ed-bbfa-56ccf43bab98.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/bc9fdbba-a126-4357-946b-4d5f5581ca0f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/858b29eb-53f3-4707-87a6-444f4375f888.jpeg?im_w=720",
             ],
         icons: true,
         amazingview:false,
@@ -165,10 +165,10 @@ export const homeData = [
         soldout: false,
         url:
             [
-                https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/df7ef0e8-d07b-4460-9213-a03625c13c56.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/85a45b5d-44fb-4280-8db5-2be82645e8ad.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/6ac26d41-fb32-41da-b6a6-238d7f35097b.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/6493990f-e9b7-4615-8d83-937ba863824d.jpeg?im_w=720,
+                "https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/df7ef0e8-d07b-4460-9213-a03625c13c56.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/85a45b5d-44fb-4280-8db5-2be82645e8ad.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/6ac26d41-fb32-41da-b6a6-238d7f35097b.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-313113/original/6493990f-e9b7-4615-8d83-937ba863824d.jpeg?im_w=720",
             ],
         icons: true,
         amazingview:false,
@@ -180,11 +180,11 @@ export const homeData = [
         soldout: false,
         url:
             [
-                https://a0.muscache.com/im/pictures/miso/Hosting-49814528/original/8635b3ad-47a1-4be7-a2f2-97ba0ba01139.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-49814528/original/ae42d044-3a22-445a-a581-639fc8ad51bd.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/f8be9fad-d444-4bb7-bebb-3521668524b7.jpg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-49814528/original/bc5daed6-7583-408c-9551-065a843224b3.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/4cc6a1fd-9013-429f-8560-d804a8c0db9a.jpg?im_w=720,
+                "https://a0.muscache.com/im/pictures/miso/Hosting-49814528/original/8635b3ad-47a1-4be7-a2f2-97ba0ba01139.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-49814528/original/ae42d044-3a22-445a-a581-639fc8ad51bd.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f8be9fad-d444-4bb7-bebb-3521668524b7.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-49814528/original/bc5daed6-7583-408c-9551-065a843224b3.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/4cc6a1fd-9013-429f-8560-d804a8c0db9a.jpg?im_w=720",
 
             ],
         icons: true,
@@ -197,10 +197,10 @@ export const homeData = [
         soldout: false,
         url:
             [
-                https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/45916c9b-efcc-4672-ad06-5a32a8c633d4.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/136fa6ff-3d9d-4aaa-89fe-6e67dc395e39.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/f7dc35a4-84ee-4156-afe5-23b5ce34195e.jpeg?im_w=720,
-                https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/5fc1c638-d6a6-4549-8078-b2f9341c9411.jpeg?im_w=720,
+                "https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/45916c9b-efcc-4672-ad06-5a32a8c633d4.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/136fa6ff-3d9d-4aaa-89fe-6e67dc395e39.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/f7dc35a4-84ee-4156-afe5-23b5ce34195e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-661558087126699190/original/5fc1c638-d6a6-4549-8078-b2f9341c9411.jpeg?im_w=720",
 
             ],
         icons: true,
@@ -253,34 +253,34 @@ export const inspirationTitleData = [
         ]
     },
     {
-        title: 'Popular',
-        url: '',
-        selected: false
-    },
-    {
         title: 'Arts & culture',
         url: '',
-        selected: false
+        selected: false,
+        options: [],
     },
     {
         title: 'Outdoors',
         url: '',
-        selected: false
+        selected: false,
+        options: [],
     },
     {
         title: 'Mountains',
         url: '',
-        selected: false
+        selected: false,
+        options: [],
     },
     {
         title: 'Beach',
         url: '',
-        selected: false
+        selected: false,
+        options: [],
     },
     {
         title: 'Unique stays',
         url: '',
-        selected: false
+        selected: false,
+        options: [],
     },
 ]
 
