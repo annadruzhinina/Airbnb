@@ -6,9 +6,10 @@ import { IoPersonOutline } from "react-icons/io5";
 
 export default function UserMenu() {
   return (
-    <>
-    <div><AiOutlineMenu/></div>
-    <IoPersonOutline size={22} />
-    </>
+    <div className='navbar-userMenu-container'>
+    <div><AiOutlineMenu/>
+    </div>
+    <IoPersonOutline className="navbar-avatar" size={22} />
+    </div>
   )
 }
