@@ -1,24 +1,33 @@
 .navbar-userMenu-container{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     height: 48px;
-    width: 68px;
-    border: solid 1px rgb(34, 34, 34);
+    width: 86px;
+    border: solid 0.5px rgba(0, 0, 0, 0.18);
     border-radius: 24px;
 
     &:hover{
-        background-color: rgb(244, 241, 241);
-        border-radius: 22px;
+        // background-color: rgb(244, 241, 241);
+        // border-radius: 22px;
         cursor: pointer;
-        box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+        box-shadow:0 2px 4px 0 rgba(0, 0, 0, 0.18);
     }
 
 }
 
-.navbar-avatar{
-    background-color: gray;
+.navbar-userMenu-burger{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+
+}
+
+.navbar-userMenu-avatar{
+    background-color: #6a6a6a;
     padding: 6px;
     border-radius: 50%;
     color: white;
+    margin-right: 10px;
 }
